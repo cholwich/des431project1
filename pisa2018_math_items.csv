@@ -1,4 +1,4 @@
-﻿Column Name for Score,Column Name for Timestamp,Unit Name,Cluster,Sequence in Cluster,Sequence in Unit,Item Format,Content,Situation/Context,Process 
+﻿Score Column,Time Column,Unit Name,Cluster,Sequence in Cluster,Sequence in Unit,Item Format,Content,Situation/Context,Process 
 CM033Q01S,CM033Q01T,A View Room,M01,1,1/1,Simple Multiple Choice - Computer Scored,Space and Shape,Personal,"Interpreting, Applying and Evaluating Mathematical Outcomes"
 CM474Q01S,CM474Q01T,Running Time,M01,2,1/1,Simple Multiple Choice - Computer Scored,Quantity,Personal,"Employing Mathematical Concepts, Facts and Procedures"
 DM155Q02C,CM155Q02T,Population Pyramids,M01,3,1/4,Open Response - Human Coded,Change and Relationships,Scientific,"Interpreting, Applying and Evaluating Mathematical Outcomes"
