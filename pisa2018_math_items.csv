@@ -1,0 +1,83 @@
+﻿Column Name for Score,Column Name for Timestamp,Unit Name,Cluster,Sequence in Cluster,Sequence in Unit,Item Format,Content,Situation/Context,Process 
+CM033Q01S,CM033Q01T,A View Room,M01,1,1/1,Simple Multiple Choice - Computer Scored,Space and Shape,Personal,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM474Q01S,CM474Q01T,Running Time,M01,2,1/1,Simple Multiple Choice - Computer Scored,Quantity,Personal,"Employing Mathematical Concepts, Facts and Procedures"
+DM155Q02C,CM155Q02T,Population Pyramids,M01,3,1/4,Open Response - Human Coded,Change and Relationships,Scientific,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM155Q01S,CM155Q01T,Population Pyramids,M01,4,2/4,Complex Multiple Choice - Computer Scored,Change and Relationships,Scientific,"Employing Mathematical Concepts, Facts and Procedures"
+DM155Q03C,CM155Q03T,Population Pyramids,M01,5,3/4,Open Response - Human Coded,Change and Relationships,Scientific,"Employing Mathematical Concepts, Facts and Procedures"
+CM155Q04S,CM155Q04T,Population Pyramids,M01,6,4/4,Complex Multiple Choice - Computer Scored,Change and Relationships,Scientific,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM411Q01S,CM411Q01T,Diving,M01,7,1/2,Open Response - Computer Scored,Quantity,Societal,"Employing Mathematical Concepts, Facts and Procedures"
+CM411Q02S,CM411Q02T,Diving,M01,8,2/2,Simple Multiple Choice - Computer Scored,Uncertainty and Data,Societal,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM803Q01S,CM803Q01T,Labels,M01,9,1/1,Open Response - Computer Scored,Uncertainty and Data,Occupational,Formulating Situations Mathematically
+CM442Q02S,CM442Q02T,Braille,M01,10,1/1,Complex Multiple Choice - Computer Scored,Quantity,Societal,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+DM462Q01C,CM462Q01T,Third Side,M01,11,1/1,Open Response - Human Coded,Space and Shape,Scientific,"Employing Mathematical Concepts, Facts and Procedures"
+CM034Q01S,CM034Q01T,Bricks,M01,12,1/1,Open Response - Computer Scored,Space and Shape,Occupational,Formulating Situations Mathematically
+CM305Q01S,CM305Q01T,Map,M02,1,1/1,Simple Multiple Choice - Computer Scored,Space and Shape,Societal,"Employing Mathematical Concepts, Facts and Procedures"
+CM496Q01S,CM496Q01T,Cash Withdrawal,M02,2,1/2,Complex Multiple Choice - Computer Scored,Quantity,Societal,Formulating Situations Mathematically
+CM496Q02S,CM496Q02T,Cash Withdrawal,M02,3,2/2,Open Response - Computer Scored,Quantity,Societal,"Employing Mathematical Concepts, Facts and Procedures"
+CM423Q01S,CM423Q01T,Tossing Coins,M02,4,1/1,Simple Multiple Choice - Computer Scored,Uncertainty and Data,Personal,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM192Q01S,CM192Q01T,Containers,M02,5,1/1,Complex Multiple Choice - Computer Scored,Change and Relationships,Scientific,Formulating Situations Mathematically
+DM406Q01C,CM406Q01T,Running Tracks,M02,6,1/2,Open Response - Human Coded,Space and Shape,Societal,"Employing Mathematical Concepts, Facts and Procedures"
+DM406Q02C,CM406Q02T,Running Tracks,M02,7,2/2,Open Response - Human Coded,Space and Shape,Societal,Formulating Situations Mathematically
+CM603Q01S,CM603Q01T,Number Check,M02,8,1/1,Complex Multiple Choice - Computer Scored,Quantity,Scientific,"Employing Mathematical Concepts, Facts and Procedures"
+CM571Q01S,CM571Q01T,Stop The Car,M02,9,1/1,Simple Multiple Choice - Computer Scored,Change and Relationships,Scientific,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM564Q01S,CM564Q01T,Chair Lift,M02,10,1/2,Simple Multiple Choice - Computer Scored,Quantity,Societal,Formulating Situations Mathematically
+CM564Q02S,CM564Q02T,Chair Lift,M02,11,2/2,Simple Multiple Choice - Computer Scored,Uncertainty and Data,Societal,Formulating Situations Mathematically
+CM447Q01S,CM447Q01T,Tile Arrangement,M03,1,1/1,Simple Multiple Choice - Computer Scored,Space and Shape,Societal,"Employing Mathematical Concepts, Facts and Procedures"
+CM273Q01S,CM273Q01T,Pipelines,M03,2,1/1,Complex Multiple Choice - Computer Scored,Space and Shape,Occupational,"Employing Mathematical Concepts, Facts and Procedures"
+CM408Q01S,CM408Q01T,Lotteries,M03,3,1/1,Complex Multiple Choice - Computer Scored,Uncertainty and Data,Societal,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM420Q01S,CM420Q01T,Transport,M03,4,1/1,Complex Multiple Choice - Computer Scored,Uncertainty and Data,Personal,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM446Q01S,CM446Q01T,Thermometer Cricket,M03,5,1/2,Open Response - Computer Scored,Change and Relationships,Scientific,Formulating Situations Mathematically
+DM446Q02C,CM446Q02T,Thermometer Cricket,M03,6,2/2,Open Response - Human Coded,Change and Relationships,Scientific,Formulating Situations Mathematically
+CM559Q01S,CM559Q01T,Telephone Rates,M03,7,1/1,Simple Multiple Choice - Computer Scored,Quantity,Societal,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+DM828Q02C,CM828Q02T,Carbon Dioxide,M03,8,1/2,Open Response - Human Coded,Uncertainty and Data,Scientific,"Employing Mathematical Concepts, Facts and Procedures"
+CM828Q03S,CM828Q03T,Carbon Dioxide,M03,9,2/2,Open Response - Computer Scored,Quantity,Scientific,"Employing Mathematical Concepts, Facts and Procedures"
+CM464Q01S,CM464Q01T,Fence,M03,10,1/1,Open Response - Computer Scored,Space and Shape,Societal,Formulating Situations Mathematically
+CM800Q01S,CM800Q01T,Computer Game,M03,11,1/1,Simple Multiple Choice - Computer Scored,Quantity,Personal,"Employing Mathematical Concepts, Facts and Procedures"
+CM982Q01S,CM982Q01T,Employment Data,M04,1,1/4,Open Response - Computer Scored,Uncertainty and Data,Societal,"Employing Mathematical Concepts, Facts and Procedures"
+CM982Q02S,CM982Q02T,Employment Data,M04,2,2/4,Open Response - Computer Scored,Uncertainty and Data,Societal,"Employing Mathematical Concepts, Facts and Procedures"
+CM982Q03S,CM982Q03T,Employment Data,M04,3,3/4,Complex Multiple Choice - Computer Scored,Uncertainty and Data,Societal,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM982Q04S,CM982Q04T,Employment Data,M04,4,4/4,Simple Multiple Choice - Computer Scored,Uncertainty and Data,Societal,Formulating Situations Mathematically
+CM992Q01S,CM992Q01T,Spacers,M04,5,1/3,Open Response - Computer Scored,Space and Shape,Occupational,Formulating Situations Mathematically
+CM992Q02S,CM992Q02T,Spacers,M04,6,2/3,Open Response - Computer Scored,Space and Shape,Occupational,Formulating Situations Mathematically
+DM992Q03C,CM992Q03T,Spacers,M04,7,3/3,Open Response - Human Coded,Change and Relationships,Occupational,Formulating Situations Mathematically
+CM915Q01S,CM915Q01T,Carbon Tax,M04,8,1/2,Simple Multiple Choice - Computer Scored,Uncertainty and Data,Societal,"Employing Mathematical Concepts, Facts and Procedures"
+CM915Q02S,CM915Q02T,Carbon Tax,M04,9,2/2,Open Response - Computer Scored,Change and Relationships,Societal,"Employing Mathematical Concepts, Facts and Procedures"
+CM906Q01S,CM906Q01T,Crazy Ants,M04,10,1/2,Simple Multiple Choice - Computer Scored,Quantity,Scientific,"Employing Mathematical Concepts, Facts and Procedures"
+DM906Q02C,CM906Q02T,Crazy Ants,M04,11,2/2,Open Response - Human Coded,Quantity,Scientific,"Employing Mathematical Concepts, Facts and Procedures"
+DM00KQ02C,CM00KQ02T,Wheelchair Basketball,M04,12,1/1,Open Response - Human Coded,Space and Shape,Personal,Formulating Situations Mathematically
+CM909Q01S,CM909Q01T,Speeding Fines,M05,1,1/3,Open Response - Computer Scored,Quantity,Societal,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM909Q02S,CM909Q02T,Speeding Fines,M05,2,2/3,Simple Multiple Choice - Computer Scored,Quantity,Societal,"Employing Mathematical Concepts, Facts and Procedures"
+CM909Q03S,CM909Q03T,Speeding Fines,M05,3,3/3,Open Response - Computer Scored,Change and Relationships,Societal,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM949Q01S,CM949Q01T,Roof Truss Design,M05,4,1/3,Complex Multiple Choice - Computer Scored,Space and Shape,Occupational,"Employing Mathematical Concepts, Facts and Procedures"
+CM949Q02S,CM949Q02T,Roof Truss Design,M05,5,2/3,Complex Multiple Choice - Computer Scored,Space and Shape,Occupational,"Employing Mathematical Concepts, Facts and Procedures"
+DM949Q03C,CM949Q03T,Roof Truss Design,M05,6,3/3,Open Response - Human Coded,Space and Shape,Occupational,Formulating Situations Mathematically
+CM00GQ01S,CM00GQ01T,Advertising Column,M05,7,1/1,Open Response - Computer Scored,Space and Shape,Personal,Formulating Situations Mathematically
+DM955Q01C,CM955Q01T,Migration,M05,8,1/3,Open Response - Human Coded,Uncertainty and Data,Societal,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+DM955Q02C,CM955Q02T,Migration,M05,9,2/3,Open Response - Human Coded,Uncertainty and Data,Societal,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM955Q03S,CM955Q03T,Migration,M05,10,3/3,Open Response - Computer Scored,Uncertainty and Data,Societal,"Employing Mathematical Concepts, Facts and Procedures"
+DM998Q02C,CM998Q02T,Bike Rental,M05,11,1/2,Open Response - Human Coded,Change and Relationships,Personal,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM998Q04S,CM998Q04T,Bike Rental,M05,12,2/2,Complex Multiple Choice - Computer Scored,Change and Relationships,Personal,"Employing Mathematical Concepts, Facts and Procedures"
+CM905Q01S,CM905Q01T,Tennis balls,M6A,1,1/2,Complex Multiple Choice - Computer Scored,Quantity,Occupational,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+DM905Q02C,CM905Q02T,Tennis balls,M6A,2,2/2,Open Response - Human Coded,Quantity,Occupational,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM919Q01S,CM919Q01T,Fan Merchandise,M6A,3,1/2,Open Response - Computer Scored,Quantity,Personal,"Employing Mathematical Concepts, Facts and Procedures"
+CM919Q02S,CM919Q02T,Fan Merchandise,M6A,4,2/2,Open Response - Computer Scored,Quantity,Personal,Formulating Situations Mathematically
+CM954Q01S,CM954Q01T,Medicine doses,M6A,5,1/3,Open Response - Computer Scored,Change and Relationships,Scientific,"Employing Mathematical Concepts, Facts and Procedures"
+DM954Q02C,CM954Q02T,Medicine doses,M6A,6,2/3,Open Response - Human Coded,Change and Relationships,Scientific,"Employing Mathematical Concepts, Facts and Procedures"
+CM954Q04S,CM954Q04T,Medicine doses,M6A,7,3/3,Open Response - Computer Scored,Change and Relationships,Scientific,"Employing Mathematical Concepts, Facts and Procedures"
+CM943Q01S,CM943Q01T,Arches,M6A,8,1/2,Simple Multiple Choice - Computer Scored,Change and Relationships,Occupational,Formulating Situations Mathematically
+CM943Q02S,CM943Q02T,Arches,M6A,9,2/2,Open Response - Computer Scored,Space and Shape,Occupational,Formulating Situations Mathematically
+DM953Q02C,CM953Q02T,Flu test,M6A,10,1/3,Open Response - Human Coded,Uncertainty and Data,Scientific,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM953Q03S,CM953Q03T,Flu test,M6A,11,2/3,Open Response - Computer Scored,Uncertainty and Data,Scientific,Formulating Situations Mathematically
+DM953Q04C,CM953Q04T,Flu test,M6A,12,3/3,Open Response - Human Coded,Uncertainty and Data,Scientific,Formulating Situations Mathematically
+CM948Q01S,CM948Q01T,Part Time Work,M6B,1,1/3,Simple Multiple Choice - Computer Scored,Quantity,Occupational,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM948Q02S,CM948Q02T,Part Time Work,M6B,2,2/3,Open Response - Computer Scored,Quantity,Occupational,"Employing Mathematical Concepts, Facts and Procedures"
+CM948Q03S,CM948Q03T,Part Time Work,M6B,3,3/3,Open Response - Computer Scored,Quantity,Occupational,"Employing Mathematical Concepts, Facts and Procedures"
+CM936Q01S,CM936Q01T,Seats in a Theatre,M6B,4,1/2,Open Response - Computer Scored,Change and Relationships,Occupational,"Employing Mathematical Concepts, Facts and Procedures"
+DM936Q02C,CM936Q02T,Seats in a Theatre,M6B,5,2/2,Open Response - Human Coded,Change and Relationships,Occupational,Formulating Situations Mathematically
+DM961Q02C,CM961Q02T,Chocolate,M6B,6,1/3,Open Response - Human Coded,Change and Relationships,Occupational,"Employing Mathematical Concepts, Facts and Procedures"
+CM961Q03S,CM961Q03T,Chocolate,M6B,7,2/3,Simple Multiple Choice - Computer Scored,Change and Relationships,Scientific,"Employing Mathematical Concepts, Facts and Procedures"
+DM961Q05C,CM961Q05T,Chocolate,M6B,8,3/3,Open Response - Human Coded,Uncertainty and Data,Occupational,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM939Q01S,CM939Q01T,Racing,M6B,9,1/2,Simple Multiple Choice - Computer Scored,Uncertainty and Data,Societal,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM939Q02S,CM939Q02T,Racing,M6B,10,2/2,Simple Multiple Choice - Computer Scored,Uncertainty and Data,Societal,"Interpreting, Applying and Evaluating Mathematical Outcomes"
+CM967Q01S,CM967Q01T,Wooden Train Set,M6B,11,1/2,Open Response - Computer Scored,Space and Shape,Personal,"Employing Mathematical Concepts, Facts and Procedures"
+CM967Q03S,CM967Q03T,Wooden Train Set,M6B,12,2/2,Complex Multiple Choice - Computer Scored,Space and Shape,Personal,Formulating Situations Mathematically
